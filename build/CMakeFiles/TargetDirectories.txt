@@ -1,0 +1,5 @@
+/Users/robert/Desktop/CRC/CRC_GROUND_STATION/build/CMakeFiles/CRC_GROUND_STATION.dir
+/Users/robert/Desktop/CRC/CRC_GROUND_STATION/build/CMakeFiles/edit_cache.dir
+/Users/robert/Desktop/CRC/CRC_GROUND_STATION/build/CMakeFiles/rebuild_cache.dir
+/Users/robert/Desktop/CRC/CRC_GROUND_STATION/build/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/Users/robert/Desktop/CRC/CRC_GROUND_STATION/build/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
